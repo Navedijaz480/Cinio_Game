@@ -11,12 +11,15 @@ This assessment serves as a simple project to evaluate your proficiency and expe
 5. Push your updated project to your git repo and share URL.
 
 ## Requirement
-1. Need to integrate with Metamask
+1. Need to integrate with Metamask.
 2. Sign text ("Hello, Ai-Blockchain!") with Metamask
 3. Console log a transaction made by signing text with Metamask
 
 ## Timeframe
 This test should be completed within three hours from the date you begin the assessment.
+
+
+
 
 
 ## Preparation
